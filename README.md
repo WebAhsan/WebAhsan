@@ -37,10 +37,10 @@ I love writing clean code, solving real-world problems, and building tools that 
 
 > Here are some of my favorite and recent works:
 
-- 🔌 **[Custom Membership Plugin – WP](https://github.com/ashikulahsan/custom-membership-plugin)**  
-- 🎨 **[Restaurant Theme – WordPress](https://github.com/ashikulahsan/restaurant-theme)**  
-- 🛒 **[E-commerce App – Laravel & Vue](https://github.com/ashikulahsan/ecommerce-laravel-vue)**  
-- 🌍 **[Personal Portfolio – Laravel](https://github.com/ashikulahsan/portfolio-laravel)**  
+- 🔌 **[Happyness Survey Plugin – WP](https://github.com/WebAhsan/happyness-survey)**  
+- 🎨 **[Multistep Form – WordPress](https://github.com/WebAhsan/multi-step-form)**  
+- 🛒 **[Job Portal – Laravel](https://github.com/WebAhsan/Job-Portal)**  
+- 🌍 **[Book Review App – Laravel](https://github.com/WebAhsan/Book-Review-App)**  
 
 📍 _See more in my pinned repositories!_
 
@@ -58,8 +58,7 @@ I love writing clean code, solving real-world problems, and building tools that 
 ## 📫 Let's Connect
 
 - 🌐 Website: [ashikulahsan.dev](https://ashikulahsan.dev) *(or update with your real portfolio URL)*
-- 📧 Email: ashikulahsan.dev@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/ashikulahsan](https://linkedin.com/in/ashikulahsan)
+- 📧 Email: pmr08928@gmail.com
 
 ---
 
